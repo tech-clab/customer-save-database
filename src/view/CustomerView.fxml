@@ -12,12 +12,12 @@
          <font>
             <Font size="36.0" />
          </font></Label>
-      <TextField fx:id="lblCustomerName" layoutX="170.0" layoutY="122.0" prefHeight="46.0" prefWidth="539.0" promptText="Customer Name">
+      <TextField fx:id="txtCustomerName" layoutX="170.0" layoutY="122.0" prefHeight="46.0" prefWidth="539.0" promptText="Customer Name">
          <font>
             <Font size="30.0" />
          </font>
       </TextField>
-      <TextField fx:id="lblCustomerAddress" layoutX="170.0" layoutY="222.0" prefHeight="46.0" prefWidth="539.0" promptText="Customer Address">
+      <TextField fx:id="txtCustomerAddress" layoutX="170.0" layoutY="222.0" prefHeight="46.0" prefWidth="539.0" promptText="Customer Address">
          <font>
             <Font size="30.0" />
          </font>
